@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jorge Guzman
-- 👀 I’m interested in full stack development, and also in web3
-- 🌱 I’m currently learning django3
-- 💞️ I’m looking to collaborate on full stack development projects, and development and deployment of smart contracts.
+- 👀 I’m interested in learning a lot of things. Sadly, I don't have time for all of it
+- 🌱 I’m currently learning Topological Data Analysis with Python
+- 💞️ I'm looking to colaborate on Data Analysis research projects
 - 📫 You can reach me through my email jguzmanmarcos@gmail.com
 
 <!---

@@ -4,8 +4,7 @@ I'm passionate about using mathematics and data science to better understand the
 
 ## Interests
 - Algebraic topology & representation theory  
-- Topological data analysis (TDA) & applications to real-world data  
-- Interpretable and ethical AI for civic transparency & anti-corruption   
+- Topological data analysis (TDA) & applications to real-world data     
 - Pure math research with a vision for impact and teaching
 
 ## Current Focus
